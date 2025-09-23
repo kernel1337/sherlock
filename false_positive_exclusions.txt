@@ -1,7 +1,8 @@
 APClips
+Coders Rank
 GNOME VCS
+Giphy
 HackerEarth
-HackerRank
 Heavy-R
 LessWrong
 LushStories
@@ -11,9 +12,11 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-SlideShare
+Slack
 Splice
 Spotify
+Strava
+Topcoder
 Weblate
 YandexMusic
 kaskus
