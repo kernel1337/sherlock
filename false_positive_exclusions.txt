@@ -1,10 +1,11 @@
 APClips
 Coders Rank
+CyberDefenders
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
 Heavy-R
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -17,12 +18,9 @@ SlideShare
 Splice
 Spotify
 Topcoder
-TryHackMe
 Weblate
 YandexMusic
 kaskus
-nnRU
-opennet
 svidbook
 threads
 xHamster
