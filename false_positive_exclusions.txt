@@ -1,12 +1,13 @@
 APClips
+Academia.edu
 Coders Rank
-CyberDefenders
-Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+Itch.io
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -14,6 +15,7 @@ Reddit
 Roblox
 RocketTube
 SlideShare
+SpeakerDeck
 Splice
 Spotify
 Topcoder
