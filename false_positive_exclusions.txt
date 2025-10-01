@@ -1,11 +1,10 @@
 APClips
-Academia.edu
 Coders Rank
+Crevado
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -15,13 +14,12 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SpeakerDeck
 Splice
 Spotify
+Strava
 Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
