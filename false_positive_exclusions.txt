@@ -1,8 +1,6 @@
 APClips
 BoardGameGeek
-Carbonmade
 Coders Rank
-CyberDefenders
 DeviantArt
 GNOME VCS
 Giphy
@@ -12,15 +10,12 @@ LushStories
 PepperIT
 PocketStars
 Reddit
-Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
-threads
-xHamster
