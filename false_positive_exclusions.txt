@@ -1,5 +1,4 @@
 APClips
-BoardGameGeek
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -11,6 +10,7 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
 Topcoder
@@ -19,3 +19,4 @@ YandexMusic
 kaskus
 opennet
 svidbook
+xHamster
