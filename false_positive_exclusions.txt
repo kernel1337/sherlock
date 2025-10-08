@@ -1,9 +1,10 @@
 APClips
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
-HackerRank
 Heavy-R
+LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -15,6 +16,5 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 xHamster
