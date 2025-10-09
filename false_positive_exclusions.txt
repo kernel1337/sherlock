@@ -2,9 +2,9 @@ APClips
 DeviantArt
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -17,4 +17,3 @@ Weblate
 YandexMusic
 kaskus
 svidbook
-xHamster
