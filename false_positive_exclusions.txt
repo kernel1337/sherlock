@@ -2,7 +2,6 @@ APClips
 DeviantArt
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 Heavy-R
 LushStories
@@ -16,4 +15,6 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
+xHamster
