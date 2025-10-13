@@ -1,11 +1,11 @@
 APClips
 DeviantArt
-Freelancer
 GNOME VCS
 Giphy
 HackerEarth
+HackerNews
 Heavy-R
-Lobsters
+LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -16,5 +16,5 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-opennet
 svidbook
+xHamster
