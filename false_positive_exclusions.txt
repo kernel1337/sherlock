@@ -1,12 +1,11 @@
 APClips
-Academia.edu
+BreachSta.rs Forum
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-HackerRank
 Heavy-R
-LessWrong
+LushStories
 PocketStars
 Reddit
 RocketTube
@@ -15,5 +14,5 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-opennet
+programming.dev
 svidbook
