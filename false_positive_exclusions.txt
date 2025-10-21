@@ -1,7 +1,6 @@
 APClips
-CGTrader
+BreachSta.rs Forum
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 LushStories
