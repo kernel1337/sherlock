@@ -1,9 +1,9 @@
 APClips
-CGTrader
+Coders Rank
 DeviantArt
-Freelancer
 GNOME VCS
 Giphy
+LushStories
 PocketStars
 Reddit
 RocketTube
@@ -12,5 +12,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
 xHamster
