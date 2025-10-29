@@ -1,15 +1,17 @@
 APClips
+Audiojungle
 CGTrader
+Coders Rank
+Flipboard
 GNOME VCS
 Giphy
+HackerRank
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
-opennet
 svidbook
