@@ -1,9 +1,10 @@
 APClips
+Coders Rank
 DeviantArt
+Dribbble
 GNOME VCS
 Giphy
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -15,3 +16,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
