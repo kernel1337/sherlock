@@ -1,9 +1,10 @@
 APClips
 Archive.org
-Audiojungle
 DeviantArt
+Dribbble
 GNOME VCS
 Giphy
+Itch.io
 LushStories
 PocketStars
 Reddit
@@ -16,3 +17,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
