@@ -1,15 +1,20 @@
 APClips
 Archive.org
-Freelancer
+Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
+LiveJournal
 LushStories
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-phpRU
+eintracht
+opennet
 svidbook
