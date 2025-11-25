@@ -2,12 +2,11 @@ APClips
 Archive.org
 Coders Rank
 DeviantArt
+Dribbble
 GNOME VCS
 Giphy
 LushStories
-Minecraft
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
@@ -16,5 +15,5 @@ Trovo
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
-xHamster
