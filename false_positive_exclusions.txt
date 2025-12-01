@@ -5,8 +5,6 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 LushStories
-Minecraft
-OurDJTalk
 PocketStars
 Reddit
 RocketTube
@@ -14,5 +12,4 @@ Splice
 Spotify
 Weblate
 YandexMusic
-opennet
 svidbook
