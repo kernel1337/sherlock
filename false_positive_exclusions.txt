@@ -5,14 +5,16 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
+Itch.io
 Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Strava
 Weblate
 YandexMusic
 opennet
 svidbook
+threads
