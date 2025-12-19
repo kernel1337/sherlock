@@ -1,20 +1,22 @@
 APClips
 Archive.org
-Carbonmade
+BoardGameGeek
 Code Snippet Wiki
+Coders Rank
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gumroad
 Hubski
-Minecraft
+LushStories
 PocketStars
 Reddit
 RocketTube
 SlideShare
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
