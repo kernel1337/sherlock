@@ -1,7 +1,8 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
-DeviantArt
+Cracked Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -15,12 +16,13 @@ Reddit
 RocketTube
 Scribd
 SlideShare
+Smule
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
+threads
