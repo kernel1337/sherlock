@@ -6,7 +6,6 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 Hubski
 Minecraft
 PocketStars
@@ -26,3 +25,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
