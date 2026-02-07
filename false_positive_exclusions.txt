@@ -1,6 +1,7 @@
 APClips
 Archive.org
 Code Snippet Wiki
+DEV Community
 DeviantArt
 Fandom
 GNOME VCS
@@ -8,12 +9,12 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
