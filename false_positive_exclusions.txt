@@ -1,6 +1,8 @@
 APClips
 Archive.org
+Carbonmade
 Code Snippet Wiki
+Cracked Forum
 DeviantArt
 Fandom
 GNOME VCS
@@ -12,6 +14,7 @@ Minecraft
 PocketStars
 Realmeye
 Reddit
+ReverbNation
 RocketTube
 Scribd
 SlideShare
@@ -21,6 +24,7 @@ Spotify
 Trovo
 TryHackMe
 Weblate
+Wikidot
 YandexMusic
 mercadolivre
 phpRU
