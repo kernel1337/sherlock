@@ -5,7 +5,6 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
 LessWrong
 LushStories
@@ -13,9 +12,11 @@ PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 Trovo
@@ -26,4 +27,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
