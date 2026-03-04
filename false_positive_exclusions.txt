@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Chess
 Codolio
 DeviantArt
 GNOME VCS
@@ -9,7 +10,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Realmeye
