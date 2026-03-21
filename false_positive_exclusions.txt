@@ -2,6 +2,7 @@ APClips
 Archive.org
 Codolio
 DeviantArt
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -29,3 +30,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
