@@ -1,5 +1,4 @@
 APClips
-Archive of Our Own
 Archive.org
 Codolio
 GeeksforGeeks
@@ -7,7 +6,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
 Rarible
