@@ -1,12 +1,12 @@
+7Cups
 APClips
 Archive.org
-BoardGameGeek
 Codolio
 DeviantArt
-DigitalSpy
+Discord.bio
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
@@ -14,7 +14,6 @@ LushStories
 Minecraft
 Patched
 PocketStars
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -23,6 +22,7 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 Trovo
