@@ -4,16 +4,15 @@ Archive.org
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -22,7 +21,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 Trovo
@@ -34,3 +32,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
