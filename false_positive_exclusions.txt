@@ -1,18 +1,21 @@
 7Cups
 APClips
-Academia.edu
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,7 +33,7 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
+xHamster
