@@ -7,14 +7,14 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
-Linktree
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -28,7 +28,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Velomania
