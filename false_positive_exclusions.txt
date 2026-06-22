@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -27,8 +26,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
-Strava
 Trovo
 TryHackMe
 Velomania
@@ -36,10 +33,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+furaffinity
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
