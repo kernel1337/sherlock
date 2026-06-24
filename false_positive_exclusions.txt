@@ -5,8 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -36,10 +36,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+hunting
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
