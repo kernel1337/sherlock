@@ -5,17 +5,18 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 LessWrong
-Minecraft
+LiveJournal
 Odysee
 Patched
 Pornhub
@@ -36,10 +37,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-hunting
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
