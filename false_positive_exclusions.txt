@@ -4,8 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -14,6 +14,8 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
+NICommunityForum
 Odysee
 PCGamer
 Patched
@@ -22,7 +24,6 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-Scribd
 Shelf
 SlideShare
 Splice
@@ -30,7 +31,6 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
