@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -24,6 +23,7 @@ Odysee
 PCGamer
 Patched
 Pornhub
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -43,7 +43,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 hunting
 igromania
 interpals
@@ -51,3 +50,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
