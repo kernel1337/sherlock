@@ -5,7 +5,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Chatujme.cz
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -19,7 +21,6 @@ Hubski
 Instapaper
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -47,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
