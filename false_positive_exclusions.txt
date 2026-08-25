@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -17,7 +16,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Linktree
+Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -48,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
