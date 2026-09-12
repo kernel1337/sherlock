@@ -5,13 +5,11 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 ColourLovers
-DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,8 +19,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LiveJournal
 Minecraft
-Mydramalist
 ObservableHQ
 Odysee
 PCGamer
@@ -31,6 +29,7 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
