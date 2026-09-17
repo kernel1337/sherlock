@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -12,7 +13,6 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -20,7 +20,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -40,6 +40,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+WordPress
 YandexMusic
 authorSTREAM
 dailykos
