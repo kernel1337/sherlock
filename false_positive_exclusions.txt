@@ -7,7 +7,6 @@ Archive.org
 Bandcamp
 CGTrader
 Championat
-Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
@@ -34,6 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -50,4 +50,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
