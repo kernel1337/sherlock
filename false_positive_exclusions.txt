@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -18,7 +19,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -27,7 +30,6 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
@@ -36,6 +38,7 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -49,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
