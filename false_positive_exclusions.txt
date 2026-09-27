@@ -19,9 +19,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -30,6 +28,7 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
@@ -52,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
