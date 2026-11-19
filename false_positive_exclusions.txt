@@ -1,21 +1,18 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Gumroad
 HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
+LibraryThing
 Linktree
 Minecraft
 ObservableHQ
@@ -28,6 +25,7 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
